@@ -99,7 +99,7 @@
 ## 📫 Connect With Me
 
 <p>
-<a href="https://linkedin.com/in/YOUR-LINK" target="blank">
+<a href="https://www.linkedin.com/in/nasreen-m-h-05057a3b4/" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
